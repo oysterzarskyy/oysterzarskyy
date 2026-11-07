@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%90%8B+I'm+oysterzarskyy;Building+Tools+%26+Automation;Roblox+Lua+%26+Reverse+Engineering;Crafting+Clean+%26+Modern+Code" alt="Typing SVG" />
+  <!-- Dynamic Typing Header SVG (Updated to current readme-typing-svg API standards) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%90%8B+I'm+oysterzarskyy;Building+Tools+%26+Automation;Roblox+Lua+%26+Reverse+Engineering;Crafting+Clean+%26+Modern+Code" alt="Typing SVG" />
 
   <br />
 
@@ -38,7 +38,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Frameworks & Ecosystem
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
