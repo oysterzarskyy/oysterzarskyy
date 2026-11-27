@@ -49,18 +49,16 @@ $\color{#94A3B8}{\footnotesize\textit{(stays\ in\ other\ locations\ depends)}}$
   </tr>
 </table>
 
-<!-- SCATTERED GIFS RIGHT -->
-
 <br>
 
 <!-- BADGES & STAMP CLUSTER -->
 <div align="center">
   <img src="src/stamp.png" width="99" height="56" alt="stamp">
   <br><br>
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAIAAAD8q9/YAAAAKXRFWHRDcmVhdGlvbiBUaW1lAInOIDcgMTAgMjAwMyAxNToyMDo0OSArMDkwMOE27uYAAAAHdElNRQfTChAEBTr+pQ40AAAACXBIWXMAAAsSAAALEgHS3X78AAAABGdBTUEAALGPC/xhBQAAAAZ0Uk5TAAAAAAAAbqYHkQAAARZJREFUeNpjTEtLYxhJgAWIZ86cOdDOoBNIT09ngbAaGxspN66+vr6rv2qgPYUTlBW2MUBiGAJq43qZFD8xMlLi4YH2ExGACcFS/AQk//8faBfRzcNwQEU/A1MRBCGLYGVjSqFpxKMXUxmaCE4P/7vPR3U/A3M1eRkbohGP07FKAQXxa0TkYYhvgSQwbQPJ//8/ZdjYkOjII7icRYafCWqE+IpUkxEehvgTkpNBJCPjDFLdiMNZtNeIPwlgBShJGuJbEKCksCYF4M9vZIQLJAjwxDwjsKUFbHgA6+F6eK1Ctm///x/k9TCw4YGIYWiJRa+4HSiAyMPNi4qBLS6GhgayzRoK7Q6Yh+up1EqiMEPSATSCOtN4SAOBIfS3geuOmAAAAAElFTkSuQmCC" height="31" alt="base64 stamp">
-  <img src="data:image/gif;base64,R0lGODlhUAAPAKIAAImOef///2ZmZgSOBP9mAP7z5wAAAAAAACH5BAAAAAAALAAAAABQAA8AAAOZKLrc/jDKSVe4OOvNu/9gqARDaQ4eoa5EAbxwLM90bdPBeJopq7q3oHAoywlIO1TH9yM6nzhdsucDCgMvTAwL02a/V+mOyrIGueiuugg+i0/klfmGvmy33KzXfUwqOUwtRGl5AIVtaWF9U0tMczaJeZJ2a4c1RkhjjVVQnVCYfnFNnqSKmXCbZaWrkCMhr7CxshwVtba3uA4JADs=" height="31" alt="base64 gif">
-  <img src="https://blob.gifcities.org/gifcities/YEQPA2SPZ44HYHCL7YSDKFDEUTQKNLMC.gif" height="31" alt="badge 2">
-  <img src="https://blob.gifcities.org/gifcities/ZOXOTR5LZ6JO7XH3KODZZUMCKHGTTRSA.gif" height="31" alt="badge 3">
+  <img src="https://blob.gifcities.org/gifcities/FCOMYC2XFCEXJKA67R6LF7QTXAFFAZGO.gif" height="31" alt="badge 1">
+  <img src="https://blob.gifcities.org/gifcities/4LV2NOUAHZFM3SDAOEIBJYU2KBJOYXMZ.gif" height="31" alt="badge 2">
+  <img src="https://blob.gifcities.org/gifcities/YEQPA2SPZ44HYHCL7YSDKFDEUTQKNLMC.gif" height="31" alt="badge 3">
+  <img src="https://blob.gifcities.org/gifcities/ZOXOTR5LZ6JO7XH3KODZZUMCKHGTTRSA.gif" height="31" alt="badge 4">
 </div>
 
 <!-- FULL-WIDTH STATUS BAR -->
