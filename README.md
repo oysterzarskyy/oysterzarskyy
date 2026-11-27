@@ -5,23 +5,17 @@
       <img src="src/2.png" width="100%" alt="Main Banner">
     </td>
     <td align="center" valign="middle" width="72%">
-
-### $\color{#FF7EB6}{\large\mathbf{✧\ ⋆｡°✩\ \mathcal{W}\text{elcome to my }\mathcal{H}\text{angout!}\ ✩°｡⋆\ ✧}}$
-
-$\color{#A78BFA}{\mathfrak{im\ a\ towel.}}$ ✦ $\color{#60A5FA}{\small\texttt{[ pony town // studio creator ]}}$
-
-<br>
-
-<img src="https://www.dropbox.com/scl/fi/t7qeews2c0oaowdun7kwq/black-and-white-moon-phases.png?rlkey=986bryby1m7fyxdaodgv00ct2&raw=1" width="180" alt="moon phases">
-
-  </td>
+      <h3>✧ ⋆｡°✩ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝐻𝒶𝓃𝑔𝑜𝓊𝓉! ✩°｡⋆ ✧</h3>
+      <p><b>𝔦𝔪 𝔞 𝔱𝔬𝔴𝔢𝔩.</b> ✦ <code>[ pony town // studio creator ]</code></p>
+      <img src="src/moons.png" width="180" alt="moon phases">
+    </td>
   </tr>
 </table>
 
 <br>
 
 <!-- SCATTERED GIF 1 -->
-<div align="left" style="padding-left: 20px;">
+<div align="left">
   <img src="https://blob.gifcities.org/gifcities/3K7WHEP5YZPND5POO44VAJ5S2YKGYWAY.gif" alt="pixel decoration">
 </div>
 
@@ -29,28 +23,21 @@ $\color{#A78BFA}{\mathfrak{im\ a\ towel.}}$ ✦ $\color{#60A5FA}{\small\texttt{[
 <table>
   <tr>
     <td align="left" valign="middle" width="62%">
-
-$\color{#E2E8F0}{\small\texttt{✦}} \ \color{#FB923C}{\small\textbf{PONIES ON PT}} \ \color{#E2E8F0}{\small\texttt{✦}}$
-
-$\color{#2DD4BF}{\texttt{dxbf2000}}$  •  $\color{#34D399}{\mathcal{the\ leaf\ guy}}$
-
-<br>
-
-$\color{#E2E8F0}{\small\texttt{✦}} \ \color{#FB923C}{\small\textbf{FAVORITE HANGOUT}} \ \color{#E2E8F0}{\small\texttt{✦}}$
-
-$\color{#A3E635}{\small\mathsf{docks,\ maybe\ in\ rp}}$
-
-$\color{#94A3B8}{\footnotesize\textit{(stays in other locations depends)}}$
-
-  </td>
+      <p>✦ <b>PONIES ON PT</b> ✦<br>
+      <code>dxbf2000</code> • <i>𝓉𝒽𝑒 𝓁𝑒𝒶𝒻 𝑔𝓊𝓎</i></p>
+      <br>
+      <p>✦ <b>FAVORITE HANGOUT</b> ✦<br>
+      docks, maybe in rp<br>
+      <sub><i>(stays in other locations depends)</i></sub></p>
+    </td>
     <td align="right" valign="middle" width="38%">
       <img src="src/1.png" width="85%" alt="Ponies Showcase">
     </td>
   </tr>
 </table>
 
-<!-- SCATTERED GIF 2 & NEW GIF -->
-<div align="right" style="padding-right: 20px;">
+<!-- SCATTERED GIFS RIGHT -->
+<div align="right">
   <img src="https://blob.gifcities.org/gifcities/HIIH4ZUBZPZVQNWDU3UFQ6JRJNC5IVRZ.gif" alt="pixel decoration">
   &nbsp;&nbsp;
   <img src="https://blob.gifcities.org/gifcities/62I622V4674TDZXVFNQEC2WBDQBZG7NP.gif" alt="pixel decoration new">
@@ -58,17 +45,16 @@ $\color{#94A3B8}{\footnotesize\textit{(stays in other locations depends)}}$
 
 <br>
 
-<!-- BADGES & STAMP CLUSTER (UNTAMPERED WITH GIFS) -->
+<!-- BADGES & STAMP CLUSTER (SAVE CARRD/NEOCITIES FILES TO SRC/) -->
 <div align="center">
-  <img src="https://y2k.neocities.org/stamps/sa_by_dragondear-dbjnlgf.png" width="99" height="56" alt="stamp">
+  <img src="src/stamp.png" width="99" height="56" alt="stamp">
   <br><br>
-  <!-- RENTRY BADGES -->
-  <img src="https://gifcity.carrd.co/assets/images/gallery29/f05e67e8.png?v=3fc8f5cd" alt="badge 1" height="31">
-  <img src="https://gifcity.carrd.co/assets/images/gallery27/afefdf7c.png?v=3fc8f5cd" alt="badge 2" height="31">
-  <img src="https://gifcity.carrd.co/assets/images/gallery26/2a7fa783.gif?v=3fc8f5cd" alt="badge 3" height="31">
+  <img src="src/badge1.png" height="31" alt="badge 1">
+  <img src="src/badge2.png" height="31" alt="badge 2">
+  <img src="src/badge3.gif" height="31" alt="badge 3">
 </div>
 
-<!-- FULL-WIDTH STATUS BAR -->
+<!-- FULL-WIDTH STATUS BAR (OUTSIDE TABLES SO LATEX COLORS RENDER) -->
 <p align="center">
 
 $\color{#F87171}{\small\texttt{[ BOOP FRIENDLY! ]}}$  •  $\color{#C084FC}{\small\texttt{[ STUDIO CREATOR ]}}$  •  $\color{#94A3B8}{\small\texttt{[ NO COMMS / TRADES ]}}$
@@ -93,6 +79,3 @@ $\color{#E2E8F0}{\small\mathsf{Feel\ free\ to\ sit\ by\ me.}}$
 $$\color{#C084FC}{\small\texttt{˚ʚ♡ɞ˚ Making stuff in Studio // No commissions or skin trades ˚ʚ♡ɞ˚}}$$
 
 $\color{#94A3B8}{\footnotesize\mathcal{feel\ free\ to\ whisper\ or\ boop\ in\text{-}game\ anytime!}}$
-
-  </div>
-</details>
