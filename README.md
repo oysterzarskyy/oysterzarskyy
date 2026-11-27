@@ -53,12 +53,14 @@ $\color{#94A3B8}{\footnotesize\textit{(stays\ in\ other\ locations\ depends)}}$
 
 <!-- BADGES & STAMP CLUSTER -->
 <div align="center">
-  <img src="src/stamp.png" width="99" height="56" alt="stamp">
+  <img src="https://blob.gifcities.org/gifcities/3BRXE53G7TDDPAAVZMMIL774QMACT4J7.gif" width="99" height="56" alt="stamp">
   <br><br>
   <img src="https://blob.gifcities.org/gifcities/FCOMYC2XFCEXJKA67R6LF7QTXAFFAZGO.gif" height="31" alt="badge 1">
   <img src="https://blob.gifcities.org/gifcities/4LV2NOUAHZFM3SDAOEIBJYU2KBJOYXMZ.gif" height="31" alt="badge 2">
   <img src="https://blob.gifcities.org/gifcities/YEQPA2SPZ44HYHCL7YSDKFDEUTQKNLMC.gif" height="31" alt="badge 3">
   <img src="https://blob.gifcities.org/gifcities/ZOXOTR5LZ6JO7XH3KODZZUMCKHGTTRSA.gif" height="31" alt="badge 4">
+  <img src="https://blob.gifcities.org/gifcities/57SS4KWJZKWMOIBJ6XKSESUQ464B6RCS.gif" height="31" alt="badge 5">
+  <img src="https://blob.gifcities.org/gifcities/ZGIBZRWCCBDM67NXTFQXJYG64FXP3WCD.gif" height="31" alt="badge 6">
 </div>
 
 <!-- FULL-WIDTH STATUS BAR -->
