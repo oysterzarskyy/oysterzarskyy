@@ -50,11 +50,6 @@ $\color{#94A3B8}{\footnotesize\textit{(stays\ in\ other\ locations\ depends)}}$
 </table>
 
 <!-- SCATTERED GIFS RIGHT -->
-<div align="right">
-  <img src="https://blob.gifcities.org/gifcities/HIIH4ZUBZPZVQNWDU3UFQ6JRJNC5IVRZ.gif" alt="pixel decoration">
-  &nbsp;&nbsp;
-  <img src="https://blob.gifcities.org/gifcities/62I622V4674TDZXVFNQEC2WBDQBZG7NP.gif" alt="pixel decoration new">
-</div>
 
 <br>
 
